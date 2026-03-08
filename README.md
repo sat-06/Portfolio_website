@@ -16,6 +16,7 @@ This repository contains the source code for my personal portfolio website. It h
 ## Projects Included
 - Iris Flower Classification (ML model with dashboard)
 - Car Price Prediction Model (ML model with frontend dashboard and backend APIs)
+- Accident Tracking System (Hardware Arduino Project)
 
 ## Experience
 - Code Alpha – Virtual Internship (Data Science & Machine Learning)
